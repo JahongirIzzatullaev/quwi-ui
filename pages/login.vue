@@ -53,8 +53,8 @@ export default {
   },
   data() {
     return {
-      email: "jahongirizzatullaev@mail.ru",
-      password: "Quwi1998",
+      email: "",
+      password: "",
       error: null,
       forgot_password: false,
       isProgress: false,
